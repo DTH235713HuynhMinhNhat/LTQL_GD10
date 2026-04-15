@@ -1,4 +1,4 @@
-# QuanLyCuaHangVanPhongPham - GD10
+
 # Dự án Quản lý Cửa hàng Văn phòng phẩm
 
 Dự án phần mềm quản lý hoạt động kinh doanh cho cửa hàng văn phòng phẩm, được phát triển bằng ngôn ngữ C# và công nghệ Entity Framework.
